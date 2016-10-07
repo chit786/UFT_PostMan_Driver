@@ -1,0 +1,8 @@
+﻿<Properties>
+  <WatchEntry0 value="c" />
+  <WatchEntry1 value="idx" />
+  <WatchEntry2 value="terminator" />
+  <WatchEntry3 value="Mid(str, idx, 1)" />
+  <WatchEntry4 value="value" />
+  <WatchEntry5 value="key" />
+</Properties>
