@@ -1,8 +1,13 @@
 ﻿<Properties>
   <WatchEntry0 value="c" />
   <WatchEntry1 value="idx" />
+  <WatchEntry10 value="Mid(str,fstfield+2,secfield-fstfield-2)" />
   <WatchEntry2 value="terminator" />
   <WatchEntry3 value="Mid(str, idx, 1)" />
   <WatchEntry4 value="value" />
   <WatchEntry5 value="key" />
+  <WatchEntry6 value="fstfield" />
+  <WatchEntry7 value="secfield" />
+  <WatchEntry8 value="str" />
+  <WatchEntry9 value="word" />
 </Properties>
